@@ -16,12 +16,11 @@ The following **required** functionality is completed:
 * [ ] Tip Amount will be displayed for each person.
  
 
-## Video Walkthrough
+## ScreenShot
 
-Here's a walkthrough of implemented user stories:
+Here's a Screenshot of implemented user:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Screenshot (3)](https://user-images.githubusercontent.com/97581461/182030485-f868ea9f-7bd7-47b2-8dec-0174f02b6b18.png)
 
 ## Feedback
 
